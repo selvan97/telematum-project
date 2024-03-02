@@ -1,0 +1,16 @@
+.customize_name{
+    display: flex;
+    flex-direction: column;
+}
+.customize_person{
+    display: flex;
+    align-items: center;
+}
+.profile_picture{
+    text-align: center;
+}
+.profile_picture img{
+    border-radius: 50%;
+    width: 40px; 
+    height: 40px;
+}
